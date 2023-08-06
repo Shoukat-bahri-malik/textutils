@@ -9,7 +9,7 @@ let lastName="malik";
 function App() {
   return (
     <>
-     <Navbar title="Maverik Dresses"/>
+     <Navbar title="TextUtils"/>
      <TextForm/>
      {/* <About/> */}
      </>
